@@ -6,7 +6,9 @@ public class GitDemo {
 
 		System.out.println("GitHub");
 		
+		System.out.println("123");
 		
+		System.out.println("ABCD");
 	}
 
 }
